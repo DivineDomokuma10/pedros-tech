@@ -1,0 +1,87 @@
+{
+  "nav": {
+    "features": "功能",
+    "howItWorks": "工作原理",
+    "pricing": "定价",
+    "contact": "联系",
+    "getStarted": "开始"
+  },
+  "hero": {
+    "title": "构建和推出人工智能解决方案",
+    "subtitle": "为想要以前所未有的速度创建变革性人工智能应用的团队提供的平台",
+    "cta": "开始构建",
+    "demo": "查看演示"
+  },
+  "features": {
+    "title": "人工智能开发的强大功能",
+    "subtitle": "构建、测试和部署人工智能解决方案所需的一切",
+    "items": {
+      "item1": "人工智能驱动的开发",
+      "item2": "快速部署",
+      "item3": "实时协作",
+      "item4": "高级分析",
+      "item5": "安全第一",
+      "item6": "全球规模"
+    }
+  },
+  "howItWorks": {
+    "title": "工作原理",
+    "subtitle": "启动人工智能应用的三个简单步骤",
+    "steps": {
+      "step1": "构建",
+      "step2": "测试",
+      "step3": "部署"
+    }
+  },
+  "infrastructure": {
+    "title": "企业基础设施",
+    "subtitle": "建立在尖端技术之上"
+  },
+  "metrics": {
+    "title": "受全球团队信任",
+    "items": {
+      "item1": "10K+ 个项目",
+      "item2": "99.9% 正常运行时间",
+      "item3": "50+ 个国家",
+      "item4": "24/7 支持"
+    }
+  },
+  "integrations": {
+    "title": "集成",
+    "subtitle": "与您喜爱的工具配合使用"
+  },
+  "security": {
+    "title": "安全与合规性",
+    "subtitle": "企业级安全，让您安心"
+  },
+  "developers": {
+    "title": "为开发人员而构建",
+    "subtitle": "直观的 API 和文档"
+  },
+  "testimonials": {
+    "title": "我们的用户说什么",
+    "subtitle": "受领先人工智能团队信任"
+  },
+  "pricing": {
+    "title": "透明定价",
+    "subtitle": "选择适合您需求的计划",
+    "items": {
+      "starter": "初级",
+      "pro": "专业",
+      "enterprise": "企业"
+    }
+  },
+  "cta": {
+    "title": "准备好创建令人惊叹的东西了吗?",
+    "subtitle": "加入数千个使用 Pedro's Tech 的团队",
+    "button": "免费开始"
+  },
+  "footer": {
+    "company": "公司",
+    "product": "产品",
+    "resources": "资源",
+    "legal": "法律",
+    "contact": "联系",
+    "rights": "© 2024 Pedro's Tech。版权所有。"
+  }
+}

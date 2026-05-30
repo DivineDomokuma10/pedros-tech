@@ -1,0 +1,87 @@
+{
+  "nav": {
+    "features": "Recursos",
+    "howItWorks": "Como Funciona",
+    "pricing": "Preços",
+    "contact": "Contato",
+    "getStarted": "Começar"
+  },
+  "hero": {
+    "title": "Construa e Lance Soluções de IA",
+    "subtitle": "A plataforma para equipes que desejam criar aplicações de IA transformadoras com velocidade sem precedentes",
+    "cta": "Começar a Construir",
+    "demo": "Ver Demo"
+  },
+  "features": {
+    "title": "Recursos Poderosos para Desenvolvimento de IA",
+    "subtitle": "Tudo o que você precisa para construir, testar e implantar soluções de IA",
+    "items": {
+      "item1": "Desenvolvimento Alimentado por IA",
+      "item2": "Implantação Rápida",
+      "item3": "Colaboração em Tempo Real",
+      "item4": "Análises Avançadas",
+      "item5": "Segurança em Primeiro Lugar",
+      "item6": "Escala Global"
+    }
+  },
+  "howItWorks": {
+    "title": "Como Funciona",
+    "subtitle": "Três passos simples para lançar sua aplicação de IA",
+    "steps": {
+      "step1": "Construir",
+      "step2": "Testar",
+      "step3": "Implantar"
+    }
+  },
+  "infrastructure": {
+    "title": "Infraestrutura Empresarial",
+    "subtitle": "Construída com tecnologia de ponta"
+  },
+  "metrics": {
+    "title": "Confiado por Equipes em Todo o Mundo",
+    "items": {
+      "item1": "10K+ Projetos",
+      "item2": "99.9% de Disponibilidade",
+      "item3": "50+ Países",
+      "item4": "Suporte 24/7"
+    }
+  },
+  "integrations": {
+    "title": "Integrações",
+    "subtitle": "Funciona com suas ferramentas favoritas"
+  },
+  "security": {
+    "title": "Segurança e Conformidade",
+    "subtitle": "Segurança em nível empresarial para sua tranquilidade"
+  },
+  "developers": {
+    "title": "Construído para Desenvolvedores",
+    "subtitle": "APIs e documentação intuitivas"
+  },
+  "testimonials": {
+    "title": "O Que Nossos Usuários Dizem",
+    "subtitle": "Confiado por equipes de IA líderes"
+  },
+  "pricing": {
+    "title": "Preços Transparentes",
+    "subtitle": "Escolha o plano que se ajusta às suas necessidades",
+    "items": {
+      "starter": "Iniciante",
+      "pro": "Profissional",
+      "enterprise": "Empresarial"
+    }
+  },
+  "cta": {
+    "title": "Pronto para Construir Algo Incrível?",
+    "subtitle": "Junte-se a milhares de equipes usando Pedro's Tech",
+    "button": "Começar Gratuitamente"
+  },
+  "footer": {
+    "company": "Empresa",
+    "product": "Produto",
+    "resources": "Recursos",
+    "legal": "Legal",
+    "contact": "Contato",
+    "rights": "© 2024 Pedro's Tech. Todos os direitos reservados."
+  }
+}

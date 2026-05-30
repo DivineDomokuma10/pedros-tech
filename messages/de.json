@@ -1,0 +1,87 @@
+{
+  "nav": {
+    "features": "Funktionen",
+    "howItWorks": "Wie es funktioniert",
+    "pricing": "Preise",
+    "contact": "Kontakt",
+    "getStarted": "Erste Schritte"
+  },
+  "hero": {
+    "title": "Entwickeln und Starten Sie KI-Lösungen",
+    "subtitle": "Die Plattform für Teams, die transformative KI-Anwendungen mit beispielloser Geschwindigkeit erstellen möchten",
+    "cta": "Beginnen Sie zu Entwickeln",
+    "demo": "Demo Ansehen"
+  },
+  "features": {
+    "title": "Leistungsstarke Funktionen für KI-Entwicklung",
+    "subtitle": "Alles, was Sie zum Erstellen, Testen und Bereitstellen von KI-Lösungen benötigen",
+    "items": {
+      "item1": "KI-gesteuerte Entwicklung",
+      "item2": "Schnelle Bereitstellung",
+      "item3": "Echtzeit-Zusammenarbeit",
+      "item4": "Erweiterte Analytik",
+      "item5": "Sicherheit an Erster Stelle",
+      "item6": "Globale Skalierung"
+    }
+  },
+  "howItWorks": {
+    "title": "Wie es funktioniert",
+    "subtitle": "Drei einfache Schritte zum Starten Ihrer KI-Anwendung",
+    "steps": {
+      "step1": "Entwickeln",
+      "step2": "Testen",
+      "step3": "Bereitstellen"
+    }
+  },
+  "infrastructure": {
+    "title": "Enterprise-Infrastruktur",
+    "subtitle": "Gebaut auf hochmoderner Technologie"
+  },
+  "metrics": {
+    "title": "Vertraut von Teams Weltweit",
+    "items": {
+      "item1": "10K+ Projekte",
+      "item2": "99.9% Verfügbarkeit",
+      "item3": "50+ Länder",
+      "item4": "24/7 Support"
+    }
+  },
+  "integrations": {
+    "title": "Integrationen",
+    "subtitle": "Funktioniert mit Ihren Lieblingswerkzeugen"
+  },
+  "security": {
+    "title": "Sicherheit und Compliance",
+    "subtitle": "Sicherheit auf Unternehmensebene für Ihre Ruhe"
+  },
+  "developers": {
+    "title": "Für Entwickler Entwickelt",
+    "subtitle": "Intuitive APIs und Dokumentation"
+  },
+  "testimonials": {
+    "title": "Was Unsere Benutzer Sagen",
+    "subtitle": "Vertraut von führenden KI-Teams"
+  },
+  "pricing": {
+    "title": "Transparente Preisgestaltung",
+    "subtitle": "Wählen Sie den Plan, der Ihren Bedürfnissen entspricht",
+    "items": {
+      "starter": "Starter",
+      "pro": "Professionell",
+      "enterprise": "Unternehmen"
+    }
+  },
+  "cta": {
+    "title": "Bereit, Etwas Großartiges zu Schaffen?",
+    "subtitle": "Treten Sie Tausenden von Teams bei, die Pedro's Tech verwenden",
+    "button": "Kostenlos Beginnen"
+  },
+  "footer": {
+    "company": "Unternehmen",
+    "product": "Produkt",
+    "resources": "Ressourcen",
+    "legal": "Recht",
+    "contact": "Kontakt",
+    "rights": "© 2024 Pedro's Tech. Alle Rechte vorbehalten."
+  }
+}
