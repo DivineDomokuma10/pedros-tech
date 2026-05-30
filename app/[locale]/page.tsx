@@ -1,6 +1,5 @@
 import { Navigation } from "@/components/landing/navigation";
 import { HeroSection } from "@/components/landing/hero-section";
-import { FeaturesSection } from "@/components/landing/features-section";
 import { HowItWorksSection } from "@/components/landing/how-it-works-section";
 import { InfrastructureSection } from "@/components/landing/infrastructure-section";
 import { MetricsSection } from "@/components/landing/metrics-section";
@@ -11,9 +10,10 @@ import { TestimonialsSection } from "@/components/landing/testimonials-section";
 import { PricingSection } from "@/components/landing/pricing-section";
 import { CtaSection } from "@/components/landing/cta-section";
 import { FooterSection } from "@/components/landing/footer-section";
+import { FeaturesSection } from "@/components/landing/feature-section";
 
 // Don't use static generation - use dynamic rendering for i18n
-export const dynamic = 'force-dynamic'
+export const dynamic = "force-dynamic";
 
 export default function Home() {
   return (
