@@ -51,3 +51,42 @@ export const FEATURES = [
     visual: "security",
   },
 ];
+
+export const STEPS = [
+  {
+    number: "I",
+    title: "Submit Your Campaign",
+    description:
+      "Send us your product, project, or message. We gather all required details to prepare your promotion across X, Instagram, and Telegram.",
+    code: `pedrosTech.submit({
+  type: 'promotion',
+  platform: ['X', 'Instagram', 'Telegram'],
+  goal: 'reach + engagement'
+})`,
+  },
+  {
+    number: "II",
+    title: "We Design Your Strategy",
+    description:
+      "We craft a tailored promotion plan or crypto update distribution strategy based on your audience, niche, and growth goals.",
+    code: `pedrosTech.strategy({
+  campaign: 'social-growth',
+  audience: 'targeted',
+  content: 'optimized',
+  include: ['hashtags', 'timing', 'community']
+})`,
+  },
+  {
+    number: "III",
+    title: "Launch & Amplify",
+    description:
+      "We execute your campaign across selected platforms and distribute content to maximize visibility and engagement.",
+    code: `pedrosTech.launch({
+  platforms: ['X', 'Instagram', 'Telegram'],
+  mode: 'amplify',
+  tracking: true
+})
+
+// Campaign now live 🚀`,
+  },
+];

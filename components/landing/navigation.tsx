@@ -12,7 +12,7 @@ export function Navigation() {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
   const navLinks = [
-    { name: t("Services"), href: "#services" },
+    { name: "Services", href: "#services" },
     { name: "Crypto Hub", href: "#crypto-hub" },
     { name: "How It Works", href: "#how-it-works" },
     { name: "Careers", href: "#careers" },
