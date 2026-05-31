@@ -29,7 +29,8 @@
     "components/sections",
     "next.config.ts",
     ".next/types/**/*.ts",
-    ".next/dev/types/**/*.ts"
+    ".next/dev/types/**/*.ts",
+    ".next/layout.tsx"
   ],
   "exclude": ["node_modules"]
 }

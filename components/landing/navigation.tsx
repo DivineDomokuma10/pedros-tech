@@ -1,19 +1,18 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import { useTranslations } from "next-intl";
+
 import { Button } from "@/components/ui/button";
-import { LanguageSwitcher } from "@/components/language-switcher";
+
 import { Menu, X } from "lucide-react";
 
 export function Navigation() {
-  const t = useTranslations();
   const [isScrolled, setIsScrolled] = useState(false);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
   const navLinks = [
-    { name: "Services", href: "#services" },
-    { name: "Crypto Hub", href: "#crypto-hub" },
+    { name: "Home", href: "#home" },
+    { name: "Features", href: "#features" },
     { name: "How It Works", href: "#how-it-works" },
     { name: "Careers", href: "#careers" },
     { name: "Contact", href: "#contact" },
@@ -72,7 +71,6 @@ export function Navigation() {
 
           {/* Desktop CTA */}
           <div className="hidden md:flex items-center gap-4">
-            <LanguageSwitcher />
             <a
               href="#careers"
               className={`text-foreground/70 hover:text-foreground transition-all duration-500 ${
@@ -146,7 +144,6 @@ export function Navigation() {
             }`}
             style={{ transitionDelay: isMobileMenuOpen ? "300ms" : "0ms" }}
           >
-            <LanguageSwitcher />
             <div className="flex gap-4">
               <Button
                 variant="outline"
