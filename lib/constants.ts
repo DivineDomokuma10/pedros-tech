@@ -1,3 +1,11 @@
+export const NAV_LINKS = [
+  { name: "Home", href: "#home" },
+  { name: "Features", href: "#features" },
+  { name: "How It Works", href: "#how-it-works" },
+  { name: "Careers", href: "#careers" },
+  { name: "Contact", href: "#contact" },
+];
+
 export const MARQUEE_STATS = [
   {
     value: "100+",

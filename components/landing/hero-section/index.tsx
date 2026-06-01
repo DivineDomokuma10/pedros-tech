@@ -1,14 +1,15 @@
 "use client";
-
-import { useEffect, useState } from "react";
-import { Button } from "@/components/ui/button";
 import { ArrowRight } from "lucide-react";
-import { AnimatedSphere } from "./animated-sphere";
+import { useEffect, useState } from "react";
 import GridBackground from "./grid-background";
-import { MARQUEE_STATS } from "@/lib/constants";
-import { cn } from "@/lib/utils";
+import { AnimatedSphere } from "./animated-sphere";
 
-const words = ["promote", "grow", "amplify", "scale"];
+import { cn } from "@/lib/utils";
+import { MARQUEE_STATS } from "@/lib/constants";
+
+import { Button } from "@/components/ui/button";
+
+const words = ["Promote", "Grow", "Amplify", "Scale"];
 
 export function HeroSection() {
   const [wordIndex, setWordIndex] = useState(0);
@@ -60,9 +61,7 @@ export function HeroSection() {
                 : "opacity-0 translate-y-8"
             }`}
           >
-            <span className="block">Grow your brand</span>
             <span className="block">
-              to{" "}
               <span className="relative inline-block">
                 <span key={wordIndex} className="inline-flex">
                   {words[wordIndex].split("").map((char, i) => (
@@ -80,6 +79,7 @@ export function HeroSection() {
                 <span className="absolute -bottom-2 left-0 right-0 h-3 bg-foreground/10" />
               </span>
             </span>
+            <span className="block"> your brand</span>
           </h1>
         </div>
 
@@ -155,8 +155,6 @@ export function HeroSection() {
           ))}
         </div>
       </div>
-
-      {/* Scroll indicator */}
     </section>
   );
 }

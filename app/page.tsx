@@ -11,6 +11,7 @@ import { HowItWorksSection } from "@/components/landing/how-it-works-section";
 // import { CtaSection } from "@/components/landing/cta-section";
 import { FooterSection } from "@/components/landing/footer-section";
 import { FeaturesSection } from "@/components/landing/feature-section";
+import { AboutSection } from "@/components/landing/about-us";
 
 // Don't use static generation - use dynamic rendering for i18n
 export const dynamic = "force-dynamic";
@@ -22,6 +23,7 @@ export default function Home() {
       <HeroSection />
       <FeaturesSection />
       <HowItWorksSection />
+      <AboutSection />
       {/* <InfrastructureSection />
       <MetricsSection />
       <IntegrationsSection />
